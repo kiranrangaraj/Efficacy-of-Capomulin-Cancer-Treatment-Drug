@@ -21,6 +21,7 @@ This project uses Python Pandas to read the CSV data files into DataFrames and M
 <p align="center">
   <img src="Images/SummaryStatistics.png" width="500">
 </p>
+
 ### Bar and Pie Charts
 * Generated a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the number of total mice for each treatment regimen throughout the course of the study.
 <p align="center">
@@ -30,6 +31,7 @@ This project uses Python Pandas to read the CSV data files into DataFrames and M
 <p align="center">
   <img src="Images/BarChart2.png" width="400">
 </p>
+
 ### Quartiles, Outliers, and Boxplots
 * Calculated the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. 
 * Calculated the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
@@ -37,20 +39,24 @@ This project uses Python Pandas to read the CSV data files into DataFrames and M
 <p align="center">
   <img src="Images/BoxPlot.png" width="400">
 </p>
+
 ### Line and Scatter Plots
 * Selected "Mouse s185" that was treated with Capomulin and generate a line plot of time point versus tumor volume for that mouse.
 <p align="center">
   <img src="Images/LineChart.png" width="400">
 </p>
+
 * Generated a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 <p align="center">
   <img src="Images/ScatterPlot.png" width="400">
 </p>
+
 ### Correlation and Regression
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 <p align="center">
   <img src="Images/CorrelationCoefficient.png" width="650">
 </p>
+
 <p align="center">
   <img src="Images/LinearRegression.png" width="400">
 </p>
