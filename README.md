@@ -69,8 +69,13 @@ Visualizing the data in the figures below helps to illustrate the efficacy of th
 
 ---
 
-## References ##
-* https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py
+## Sources ##
+Data
+* [Mouse Metadata](https://github.com/kiranrangaraj/Efficacy-of-Capomulin-Cancer-Treatment-Drug/blob/master/data/Mouse_metadata.csv)
+* [Study Results](https://github.com/kiranrangaraj/Efficacy-of-Capomulin-Cancer-Treatment-Drug/blob/master/data/Study_results.csv)
+
+References
+* [PyPlot Boxplot Demo](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py)
 
 ---
 
